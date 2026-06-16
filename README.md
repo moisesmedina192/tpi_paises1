@@ -49,7 +49,7 @@ Moises Alejandro Medina Rivero
 
 ## Video Demostración
 
-Agregar aquí el enlace del video.
+(https://www.youtube.com/watch?v=6OoYTTLqukQ)
 
 ## Informe PDF
 
